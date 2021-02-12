@@ -3,7 +3,7 @@
 ## My Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=naru20181117&theme=gruvbox&count_private=true&show_icons=true" />
@@ -27,7 +27,7 @@
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="30px">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="30px">|<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="30px">|
 
 
-<dl>
+<dl align="left">
   <dt>IoT Devices
     <dd>Love hack my daily life efficiently.</dd>
   </dt>
