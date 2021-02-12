@@ -13,6 +13,12 @@ Ruby / JS / Vue / Firebase
 ```
 Typescript / Nuxt / Flutter / Go
 ```
+<dl>
+  <dt>IoT</dt>
+  <dd>Love hack my daily life efficiently.</dd>
+  <dt>Marketing</dt>
+  <dd>Big passion for user experience.</dd>
+</dl>
 
 ## 💬 Connect
 
