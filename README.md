@@ -6,6 +6,7 @@
 
 ```
 Ruby / JS / Vue / Firebase
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)
 ```
 
 ## 🤔 Interests
@@ -14,10 +15,10 @@ Ruby / JS / Vue / Firebase
 Typescript / Nuxt / Flutter / Go
 ```
 <dl>
-  <dt>IoT</dt>
+  <dt>IoT Devices</dt>
   <dd>Love hack my daily life efficiently.</dd>
   <dt>Marketing</dt>
-  <dd>Big passion for user experience.</dd>
+  <dd>Big passion for user experience by a service.</dd>
 </dl>
 
 ## 💬 Connect
