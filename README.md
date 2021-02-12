@@ -36,7 +36,7 @@
 
 ## 💬 Connect
 
-- [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="10px"> Twitter](https://twitter.com/1026NT)
+- [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="20px"> Twitter](https://twitter.com/1026NT)
 - [💬 Portfolio Site](https://naruhiro-portfolio.firebaseapp.com/)
 - [📝 Laugh Note](https://note.com/naru_note)
 
