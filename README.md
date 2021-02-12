@@ -1,15 +1,4 @@
 ### Japanese Web developer.🇯🇵  
-Love IoT devices to make my daily life efficient🤖
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naru20181117&theme=gruvbox&count_private=true&show_icons=true" />
-</a>     
-
-<hr>
 
 
 
@@ -32,3 +21,9 @@ Typescript / Nuxt / Flutter / Go
 - [📝 Laugh Note](https://note.com/naru_note)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naru20181117&theme=gruvbox&count_private=true&show_icons=true" />
+</a>     
