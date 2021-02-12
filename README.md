@@ -19,10 +19,12 @@
 
 
 <dl>
-  <dt>IoT Devices</dt>
-  <dd>Love hack my daily life efficiently.</dd>
-  <dt>Marketing</dt>
-  <dd>Big passion for user experience by a service.</dd>
+  <dt>IoT Devices
+    <dd>Love hack my daily life efficiently.</dd>
+  </dt>
+  <dt>Marketing
+    <dd>Big passion for user experience by a service.</dd>
+  </dt>
 </dl>
 
 ## 💬 Connect
