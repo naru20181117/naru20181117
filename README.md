@@ -6,7 +6,7 @@
 
 ```
 Ruby / JS / Vue / Firebase
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)
+![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png)
 ```
 
 ## 🤔 Interests
@@ -27,6 +27,7 @@ Typescript / Nuxt / Flutter / Go
 - [💬 Portfolio Site](https://naruhiro-portfolio.firebaseapp.com/)
 - [📝 Laugh Note](https://note.com/naru_note)
 
+## My Status
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox" />
