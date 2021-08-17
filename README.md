@@ -7,6 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox&layout=compact" />
 </a>
+
 [![](https://raw.githubusercontent.com/naru20181117/naru20181117/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naru20181117)](https://github.com/ryo-ma/github-profile-trophy)
