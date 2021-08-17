@@ -1,10 +1,11 @@
 ### Japanese Web developer.🇯🇵  
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox&layout=compact" />
-</a>
+</a> -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naru20181117&theme=solarized)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naru20181117)](https://github.com/ryo-ma/github-profile-trophy)
