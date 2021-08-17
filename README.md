@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox&layout=compact" />
 </a> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naru20181117&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naru20181117&theme=solarized_dark)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naru20181117)](https://github.com/ryo-ma/github-profile-trophy)
