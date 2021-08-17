@@ -1,19 +1,18 @@
 ### Japanese Web developer.🇯🇵  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=naru20181117&theme=gruvbox&count_private=true&show_icons=true" />
-</a>     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox&layout=compact" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naru20181117&theme=dracula)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naru20181117)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## ⚡ Skills
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naru20181117&theme=solarized)
 
 |Ruby|JS|Vue|Firebase|
 |:---:|:---:|:---:|:---:|
