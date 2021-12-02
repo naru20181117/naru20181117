@@ -1,5 +1,8 @@
 ### Japanese Web developer.🇯🇵  
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/naruqiita/posts.svg)](http://qiita.com/naruqiita)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/naruqiita/contributions.svg)](http://qiita.com/naruqiita)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/naruqiita/followers.svg)](http://qiita.com/naruqiita)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naru20181117&theme=gruvbox&layout=compact" />
@@ -9,6 +12,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naru20181117)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## ⚡ Skills
